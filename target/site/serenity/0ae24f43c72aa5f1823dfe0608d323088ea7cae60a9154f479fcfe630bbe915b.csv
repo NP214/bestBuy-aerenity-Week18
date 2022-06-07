@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Products test","Get all products","SUCCESS","2022-06-07T13:12:46.235-07:00[America/Phoenix]","0.0","6.38"
+"Products test","This will create a new product","SUCCESS","2022-06-07T13:12:52.674-07:00[America/Phoenix]","0.0","1.52"
+"Products test","Test002","SUCCESS","2022-06-07T13:12:54.198-07:00[America/Phoenix]","0.0","0.07"
+"Products test","Update the product information and verify updated information","SUCCESS","2022-06-07T13:12:54.266-07:00[America/Phoenix]","0.0","0.09"
+"Products test","Delete the product information and verify updated information","SUCCESS","2022-06-07T13:12:54.361-07:00[America/Phoenix]","0.0","0.07"

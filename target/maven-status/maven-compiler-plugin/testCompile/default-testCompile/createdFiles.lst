@@ -1,0 +1,11 @@
+com\bestbuy\testbase\ProductTestBase.class
+com\bestbuy\ServiceTest.class
+com\bestbuy\testbase\HealthcheckTestBase.class
+com\bestbuy\StoreTest.class
+com\bestbuy\Utilities\VersionTest.class
+com\bestbuy\testbase\CategoriesTestBase.class
+com\bestbuy\Utilities\HealthCheckTest.class
+com\bestbuy\testbase\StoreTestBase.class
+com\bestbuy\testbase\VersionTestBase.class
+com\bestbuy\ProductsTest.class
+com\bestbuy\testbase\ServicesTestBase.class

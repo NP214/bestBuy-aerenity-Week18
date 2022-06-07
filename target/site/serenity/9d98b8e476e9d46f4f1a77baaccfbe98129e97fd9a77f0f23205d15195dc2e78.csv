@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Service test","This will craete a new services","SUCCESS","2022-06-07T13:12:56.475-07:00[America/Phoenix]","0.0","0.09"
+"Service test","getting service information from id","SUCCESS","2022-06-07T13:12:56.561-07:00[America/Phoenix]","0.0","0.04"
+"Service test","Update services by ID","SUCCESS","2022-06-07T13:12:56.598-07:00[America/Phoenix]","0.0","0.1"
+"Service test","Delete the service information and verify updated information","SUCCESS","2022-06-07T13:12:56.702-07:00[America/Phoenix]","0.0","0.12"
+"Service test","Total","SUCCESS","2022-06-07T13:12:56.823-07:00[America/Phoenix]","0.0","0.03"

@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Store test","This will create a new store","SUCCESS","2022-06-07T13:12:57.018-07:00[America/Phoenix]","0.0","0.17"
+"Store test","Test002","SUCCESS","2022-06-07T13:12:57.193-07:00[America/Phoenix]","0.0","0.08"
+"Store test","Test003","SUCCESS","2022-06-07T13:12:57.276-07:00[America/Phoenix]","0.0","0.02"
+"Store test","Delete the store information and verify updated information","SUCCESS","2022-06-07T13:12:57.299-07:00[America/Phoenix]","0.0","0.12"
+"Store test","Get all stores","SUCCESS","2022-06-07T13:12:57.421-07:00[America/Phoenix]","0.0","0.1"
